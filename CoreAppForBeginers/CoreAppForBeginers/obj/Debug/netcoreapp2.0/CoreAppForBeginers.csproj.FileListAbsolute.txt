@@ -1,0 +1,11 @@
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\bin\Debug\netcoreapp2.0\CoreAppForBeginers.deps.json
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\bin\Debug\netcoreapp2.0\CoreAppForBeginers.runtimeconfig.json
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\bin\Debug\netcoreapp2.0\CoreAppForBeginers.runtimeconfig.dev.json
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\bin\Debug\netcoreapp2.0\CoreAppForBeginers.dll
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\bin\Debug\netcoreapp2.0\CoreAppForBeginers.pdb
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\obj\Debug\netcoreapp2.0\CoreAppForBeginers.csprojResolveAssemblyReference.cache
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\obj\Debug\netcoreapp2.0\CoreAppForBeginers.csproj.CoreCompileInputs.cache
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\obj\Debug\netcoreapp2.0\CoreAppForBeginers.AssemblyInfoInputs.cache
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\obj\Debug\netcoreapp2.0\CoreAppForBeginers.AssemblyInfo.cs
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\obj\Debug\netcoreapp2.0\CoreAppForBeginers.dll
+C:\Users\15 ay\source\repos\CoreAppForBeginers\CoreAppForBeginers\obj\Debug\netcoreapp2.0\CoreAppForBeginers.pdb
